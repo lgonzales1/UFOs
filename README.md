@@ -10,11 +10,11 @@ Users can select any combination of date, city, state, country, and/or shape to 
 
 *Figure 1: Webpage with filter search*
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/lgonzales1/UFOs/main/Empty_Filters.png)
 
 *Figure 2: Webpage with user who filtered by date, city, and shape.*
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/lgonzales1/UFOs/main/Filter_Updates.png)
 
 ## Summary
 
